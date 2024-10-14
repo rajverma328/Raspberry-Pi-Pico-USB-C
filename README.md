@@ -1,5 +1,7 @@
 # Custom Pi Pico Board Design
 
+![3D Model](README_RESOURCES/aa.png)
+
 This repository contains the KiCAD design files for a custom-built Pi Pico board. The design was made entirely from scratch, utilizing KiCAD for PCB design and component placement. The board is based on the Raspberry Pi Pico microcontroller, featuring the RP2040 chip, and adheres to the original specifications with a few custom modifications.
 
 ## Project Overview
